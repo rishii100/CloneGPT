@@ -9,6 +9,7 @@ This repository contains code that demonstrates a basic implementation of a Chat
    ```shell
    git clone https://github.com/your_username/chatgpt-clone.git
 ### Install the required dependencies:
+
      ```shell
      pip install -r requirements.txt
 
