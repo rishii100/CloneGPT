@@ -34,9 +34,9 @@ This repository contains code that demonstrates a basic implementation of a Chat
 
 1)Python 3.6 or above
 
-2)openai library
+2)**openai** library
 
-3)gradio library
+3)**gradio** library
 ## License:
 This code is released under the MIT License.
 
