@@ -45,3 +45,7 @@ This code is released under the <a href="LICENSE"> MIT LICENSE </a>.
 
 ## Disclaimer:
 The AI assistant is powered by the OpenAI GPT-3.5 model and the responses are generated based on the training data it has been exposed to. Please note that the AI assistant's responses may not always be accurate or appropriate. Use the code and the AI assistant at your own risk.
+
+## Contributing:
+
+Feel free to modify the content to match your specific needs and provide more details about the code and its functionality.
