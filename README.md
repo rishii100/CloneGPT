@@ -22,7 +22,9 @@ This repository contains code that demonstrates a basic implementation of a Chat
 
 ### Run the application:
   ``` shell
-     python main.py ```
+     python main.py 
+
+
 
 5.Open your web browser and navigate to ` http://localhost:7860 ` to access the ChatGPT clone interface.
 
