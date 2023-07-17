@@ -21,9 +21,9 @@ This repository contains code that demonstrates a basic implementation of a Chat
 4.Replace "Enter your API key" with your actual OpenAI API key.
 
 ### Run the application:
-  ``` shell
+  ``` 
      python main.py 
-   ``` shell
+   ``` 
 
 
 5.Open your web browser and navigate to ` http://localhost:7860 ` to access the ChatGPT clone interface.
