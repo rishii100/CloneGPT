@@ -14,11 +14,11 @@ This repository contains code that demonstrates a basic implementation of a Chat
 
 ### Replace the placeholder API key:
 
-2.Open the main.py file.
+2.Open the **main.py** file.
 
-3.Find the line openai.api_key = "Enter your API key".
+3.Find the line ` openai.api_key = "Enter your API key" `.
 
-4.Replace "Enter your API key" with your actual OpenAI API key.
+4.Replace **"Enter your API key"** with your actual **OpenAI API key**.
 
 ### Run the application:
   ``` 
