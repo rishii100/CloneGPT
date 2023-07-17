@@ -30,3 +30,8 @@ This repository contains code that demonstrates a basic implementation of a Chat
 
 6.Enter your messages in the text input box and click the "SEND" button to send them to the AI assistant. The AI 
   assistant will generate responses based on the conversation history.
+## Dependencies:
+
+1)Python 3.6 or above
+2)openai library
+3)gradio library
