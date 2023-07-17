@@ -37,3 +37,8 @@ This repository contains code that demonstrates a basic implementation of a Chat
 2)openai library
 
 3)gradio library
+## License:
+This code is released under the MIT License.
+
+## Disclaimer:
+The AI assistant is powered by the OpenAI GPT-3.5 model and the responses are generated based on the training data it has been exposed to. Please note that the AI assistant's responses may not always be accurate or appropriate. Use the code and the AI assistant at your own risk.
