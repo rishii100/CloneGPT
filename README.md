@@ -14,6 +14,8 @@ This repository contains code that demonstrates a basic implementation of a Chat
 ## Replace the placeholder API key:
 
 Open the main.py file.
+
 Find the line openai.api_key = "Enter your API key".
+
 Replace "Enter your API key" with your actual OpenAI API key.
 
