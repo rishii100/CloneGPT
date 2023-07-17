@@ -6,8 +6,8 @@ This repository contains code that demonstrates a basic implementation of a Chat
 
 1. Clone the repository:
 
-   ```shell
-   git clone https://github.com/rishii100/CloneGPT.git
+   
+ ``` git clone https://github.com/rishii100/CloneGPT.git ```
 ### Install the required dependencies:
 
      pip install -r requirements.txt
