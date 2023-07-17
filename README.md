@@ -32,7 +32,7 @@ This repository contains code that demonstrates a basic implementation of a Chat
   assistant will generate responses based on the conversation history.
 ## Dependencies:
 
-1)Python 3.6 or above
+1)**Python 3.6** or above
 
 2)**openai** library
 
